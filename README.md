@@ -306,10 +306,22 @@
         <article class="highlight-panel">
           <div class="section-heading" style="margin-bottom: 1rem;">
             <h2>Chameleon corner</h2>
-            <p>A small personal section to add more personality to the page and show an interest outside of core technical work.</p>
           </div>
           <p style="margin:0; color: var(--color-text-muted); max-width: 58ch;">
-            This section can highlight your chameleon as part of your public profile and gives the site a more personal feel without taking away from the technical focus. It works well as a light “about me” detail that makes your page more memorable.
+            Chunk the chameleon loved his figs,
+Fat on sugar, thick on twigs.
+Flies were easy—life was sweet,
+’Til one day there was no treat.
+
+Hungry, heavy, off he crept,
+To hunt where leaner hunters leapt.
+Crickets taught him how to move,
+Miss, then learn, then slowly improve.
+
+Now flies are snacks, not all he knows—
+He climbs, he hunts, his strength still grows.
+Soft and round, yet wise and free:
+Don’t let comfort still your tree.
           </p>
           <div class="tag-row" aria-label="Chameleon section tags">
             <span class="tag">Personal Interest</span>
