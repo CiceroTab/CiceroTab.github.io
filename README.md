@@ -238,7 +238,7 @@
         </div>
         <aside class="portrait-card" aria-label="Profile headshot card">
           <div class="portrait-frame">
-            <img src="profile.jpg" alt="Professional headshot" width="600" height="690" loading="lazy" decoding="async" />
+            <img src="/profile.jpeg" alt="Professional headshot" width="600" height="690" loading="lazy" decoding="async" />
           </div>
           <div class="portrait-meta">
             <span>Public profile</span>
