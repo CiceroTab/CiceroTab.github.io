@@ -301,6 +301,28 @@
         </aside>
       </div>
     </section>
+    <section class="section container" id="chameleon">
+      <div class="highlight">
+        <article class="highlight-panel">
+          <div class="section-heading" style="margin-bottom: 1rem;">
+            <h2>Chameleon corner</h2>
+            <p>A small personal section to add more personality to the page and show an interest outside of core technical work.</p>
+          </div>
+          <p style="margin:0; color: var(--color-text-muted); max-width: 58ch;">
+            This section can highlight your chameleon as part of your public profile and gives the site a more personal feel without taking away from the technical focus. It works well as a light “about me” detail that makes your page more memorable.
+          </p>
+          <div class="tag-row" aria-label="Chameleon section tags">
+            <span class="tag">Personal Interest</span>
+            <span class="tag">Reptile Care</span>
+            <span class="tag">Profile Detail</span>
+          </div>
+        </article>
+        <aside class="highlight-panel">
+          <img src="https://pplx-res.cloudinary.com/image/upload/pplx_search_images/13b111475fe31b0d3b06ee209d6aed3be3954d17.jpg" alt="Chameleon perched on a branch" width="800" height="533" loading="lazy" decoding="async" style="width:100%; border-radius: var(--radius-lg); border: 1px solid var(--color-border); margin-bottom: var(--space-4); object-fit: cover; aspect-ratio: 16 / 10;">
+          <p style="margin:0; color: var(--color-text-muted);">You can replace this with a real photo of your own chameleon later by changing the image source to your own file name.</p>
+        </aside>
+      </div>
+    </section>
     <section class="section container" id="contact">
       <div class="section-heading">
         <h2>About this page</h2>
