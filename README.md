@@ -309,19 +309,17 @@
           </div>
           <p style="margin:0; color: var(--color-text-muted); max-width: 58ch;">
             Chunk the chameleon loved his figs,
-Fat on sugar, thick on twigs.
-Flies were easy—life was sweet,
-’Til one day there was no treat.
-
-Hungry, heavy, off he crept,
-To hunt where leaner hunters leapt.
-Crickets taught him how to move,
-Miss, then learn, then slowly improve.
-
-Now flies are snacks, not all he knows—
-He climbs, he hunts, his strength still grows.
-Soft and round, yet wise and free:
-Don’t let comfort still your tree.
+            Fat on sugar, thick on twigs.
+            Flies were easy—life was sweet,
+            ’Til one day there was no treat.
+            Hungry, heavy, off he crept,
+            To hunt where leaner hunters leapt.
+            Crickets taught him how to move,
+            Miss, then learn, then slowly improve.
+            Now flies are snacks, not all he knows—
+            He climbs, he hunts, his strength still grows.
+            Soft and round, yet wise and free:
+            Don’t let comfort still your tree.
           </p>
           <div class="tag-row" aria-label="Chameleon section tags">
             <span class="tag">Personal Interest</span>
