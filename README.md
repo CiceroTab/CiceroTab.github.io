@@ -318,7 +318,7 @@
           </div>
         </article>
         <aside class="highlight-panel">
-          <img src="./chameleon.jpeg" alt="Chameleon perched on a branch" width="800" height="533" loading="lazy" decoding="async" style="width:100%; border-radius: var(--radius-lg); border: 1px solid var(--color-border); margin-bottom: var(--space-4); object-fit: cover; aspect-ratio: 16 / 10;"></p>
+          <img src="./chameleon.jpeg" alt="Chameleon perched on a branch" width="800" height="533" loading="lazy" decoding="async" style="width:100%; border-radius: var(--radius-lg); border: 1px solid var(--color-border); margin-bottom: var(--space-4); object-fit: cover; aspect-ratio: 16 / 10;">
         </aside>
       </div>
     </section>
