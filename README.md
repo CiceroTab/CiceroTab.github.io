@@ -312,12 +312,12 @@
             Fat on sugar, thick on twigs.
             Flies were easy—life was sweet,
             ’Til one day there was no treat.
-            Hungry, heavy, off he crept,
+            Hungry, heavy, off she crept,
             To hunt where leaner hunters leapt.
-            Crickets taught him how to move,
+            Crickets taught her how to move,
             Miss, then learn, then slowly improve.
-            Now flies are snacks, not all he knows—
-            He climbs, he hunts, his strength still grows.
+            Now flies are snacks, not all she knows—
+            She climbs, she hunts, her strength still grows.
             Soft and round, yet wise and free:
             Don’t let comfort still your tree.
           </p>
