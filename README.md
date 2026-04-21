@@ -308,7 +308,7 @@
             <h2>Chameleon corner</h2>
           </div>
           <p style="margin:0; color: var(--color-text-muted); max-width: 58ch;">
-            Chunk the chameleon loved his figs,
+            Chunk the chameleon loved her figs,
             Fat on sugar, thick on twigs.
             Flies were easy—life was sweet,
             ’Til one day there was no treat.
