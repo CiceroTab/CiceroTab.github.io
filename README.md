@@ -318,29 +318,9 @@
           </div>
         </article>
         <aside class="highlight-panel">
-          <img src="https://pplx-res.cloudinary.com/image/upload/pplx_search_images/13b111475fe31b0d3b06ee209d6aed3be3954d17.jpg" alt="Chameleon perched on a branch" width="800" height="533" loading="lazy" decoding="async" style="width:100%; border-radius: var(--radius-lg); border: 1px solid var(--color-border); margin-bottom: var(--space-4); object-fit: cover; aspect-ratio: 16 / 10;">
+          <img src="./chameleon.jpeg" alt="Chameleon perched on a branch" width="800" height="533" loading="lazy" decoding="async" style="width:100%; border-radius: var(--radius-lg); border: 1px solid var(--color-border); margin-bottom: var(--space-4); object-fit: cover; aspect-ratio: 16 / 10;">
           <p style="margin:0; color: var(--color-text-muted);">You can replace this with a real photo of your own chameleon later by changing the image source to your own file name.</p>
         </aside>
-      </div>
-    </section>
-    <section class="section container" id="contact">
-      <div class="section-heading">
-        <h2>About this page</h2>
-        <p>This single HTML file is simple enough for GitHub Pages, easy to edit, and already set up with your headshot in the corner so it works as a polished starter homepage.</p>
-      </div>
-      <div class="grid cards-3">
-        <article class="card">
-          <h3>Easy to customize</h3>
-          <p>Replace the heading, short bio, and tags with your own wording as your degree progress, certifications, or projects grow.</p>
-        </article>
-        <article class="card">
-          <h3>Professional look</h3>
-          <p>The design uses a restrained technical palette and a clean layout that fits cybersecurity, networking, and engineering interests without looking overdesigned.</p>
-        </article>
-        <article class="card">
-          <h3>Ready for GitHub</h3>
-          <p>Upload the HTML file and assets folder to a repository or adapt the content into your README or GitHub Pages site.</p>
-        </article>
       </div>
     </section>
   </main>
@@ -348,7 +328,7 @@
     <div class="footer-card">
       <div>
         <strong style="display:block; margin-bottom: 0.35rem;">Technical profile page</strong>
-        <span>Built for a public GitHub presence centered on networking, security, instrumentation, and electrical interests.</span>
+        <span>Have a great Day! Thank you for taking the time to view my profile.</span>
       </div>
       <span style="font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.08em;">Static HTML • Mobile friendly • Dark mode</span>
     </div>
